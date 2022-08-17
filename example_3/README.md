@@ -2,4 +2,5 @@
 
 BLE Connect and Disconnect Example with Flutter_blue
 
-https://youtu.be/QKTqxgTxKPU
+데모 영상
+ - https://youtu.be/QKTqxgTxKPU

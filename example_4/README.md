@@ -1,5 +1,8 @@
 # ble_example 4
 
+데모 영상 
+- https://youtube.com/shorts/I---sQraxV8
+
 Flutter BLE discover Services
 
 
@@ -12,9 +15,9 @@ https://pub.dev/packages/flutter_blue_plus
 
 
 예제 테스트 환경
-flutter sdk: 3.0.5
-dart 2.17.6
-flutter_blue_plus: 1.3.0
-android compile sdk: 31
-android kotlin version: 1.7.10
-android gradle version: com.android.tools.build:gradle:7.1.0
+- flutter sdk: 3.0.5
+- dart 2.17.6
+- flutter_blue_plus: 1.3.0
+- android compile sdk: 31
+- android kotlin version: 1.7.10
+- android gradle version: com.android.tools.build:gradle:7.1.0

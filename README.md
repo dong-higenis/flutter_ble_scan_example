@@ -17,11 +17,11 @@ example_3
   
 example_4
  - 연결된 BLE 장치의 서비스 정보 검색
- - https://youtube.com/shorts/I---sQraxV8
+ - https://youtu.be/I---sQraxV8
   
 example_5
  - 연결된 BLE 장치에서 보내는 데이터 받기(Set notification)
- - https://youtube.com/shorts/TWpBbqkeZP0
+ - https://youtu.be/TWpBbqkeZP0
 
 
 
